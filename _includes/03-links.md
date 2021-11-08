@@ -1,1 +1,1 @@
-https://lab.github.com/githubtraining/communicating-using-markdown
+[text](https://example.com)
